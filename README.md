@@ -1,6 +1,6 @@
 # [TUBES] Analisis Kompleksitas Algoritma dalam Java
 
-Menentukan Jumlah Cara Kuda Dapat Mencapai Kotak Tertentu di Papan Catur
+## Menentukan Jumlah Cara Kuda Dapat Mencapai Kotak Tertentu di Papan Catur
 Deskripsi Masalah: Pada permainan catur, bidak kuda memiliki pola gerakan unik yang berbentuk huruf "L". Studi kasus ini berfokus pada menghitung jumlah cara kuda dapat mencapai suatu kotak tertentu pada papan catur berukuran N * N  posisi awal tertentu, dalam beberapa langkah tertentu. Studi kasus ini bisa digunakan untuk mempelajari pola gerakan bidak kuda serta penerapan algoritma pencarian jalur.
 
 Algoritma yang Dipilih:
