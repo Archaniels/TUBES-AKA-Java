@@ -1,5 +1,7 @@
 # [TUBES] Analisis Kompleksitas Algoritma dalam Java
 
+![Analisis Kompleksitas Algoritma](https://github.com/user-attachments/assets/c3ac37b3-1b50-4cf4-a0da-c86ba166a215)
+
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Archaniels/TUBES-AKA-Java/total?style=for-the-badge) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Archaniels/TUBES-AKA-Java?style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/Archaniels/TUBES-AKA-Java?style=for-the-badge) ![GitHub Release Date](https://img.shields.io/github/release-date/Archaniels/TUBES-AKA-Java?style=for-the-badge)
 
 ## Anggota Kelompok
