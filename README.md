@@ -1,6 +1,6 @@
 # [TUBES] Analisis Kompleksitas Algoritma dalam Java
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Archaniels/TUBES-AKA-Java/total?style=for-the-badge)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Archaniels/TUBES-AKA-Java/total?style=for-the-badge) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Archaniels/TUBES-AKA-Java?style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/Archaniels/TUBES-AKA-Java?style=for-the-badge) ![GitHub Release Date](https://img.shields.io/github/release-date/Archaniels/TUBES-AKA-Java?style=for-the-badge)
 
 ## Menentukan Jumlah Cara Kuda Dapat Mencapai Kotak Tertentu di Papan Catur
 Deskripsi Masalah: Pada permainan catur, bidak kuda memiliki pola gerakan unik yang berbentuk huruf "L". Studi kasus ini berfokus pada menghitung jumlah cara kuda dapat mencapai suatu kotak tertentu pada papan catur berukuran N * N  posisi awal tertentu, dalam beberapa langkah tertentu. Studi kasus ini bisa digunakan untuk mempelajari pola gerakan bidak kuda serta penerapan algoritma pencarian jalur.
