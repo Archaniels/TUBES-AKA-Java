@@ -12,7 +12,7 @@ public class GerakanKuda {
         k = jumlah step yang diinginkan
         */
         
-        // array 3D
+        // representasi array 3D
         int[][][] status = new int[n][n][k + 1];
         status[x1][y1][0] = 1;
 
