@@ -40,6 +40,26 @@ public class GerakanKuda {
     }
     
     public int HitungLangkahDFS_Rekursif(int n, int x, int y, int x2, int y2, int k) {
-        /////////////////////////////////////////////////////////////////////////// BELOM  
+       // jika langkah abis dan posisi sama dengan tujuan
+        if (k == 0) {
+            return (x == x2 && y == y2) ? 1 : 0;
+        }
+        // jika langkah habis tapi posisi belum di tujuan
+        if (k < 0) {
+            return 0;
+        }
+
+        int totalCara = 0;
+        // cek 8 kemungkinan gerakan kuda
+        for (int i = 0; i < 8; i++) {
+            int nextX = x + dx[i];
+            int nextY = y + dy[i];
+            // memastikan gerakn tetap berada di papan catur
+            if (nextX >= 0 && nextX < n && nextY >= 0 && nextY < n) {
+                totalCara += HitungLangkahDFS_Rekursif(n, nextX, nextY, x2, y2, k - 1);
+            }
+        }
+        return totalCara;
+    } 
     }
 }
